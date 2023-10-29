@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "name": "mack",
+    "status": "free",
+    "reservation_detail": null,
+    "reservation_start_time": null,
+    "reservation_end_time": null,
+    "time_spent_on_reservation": null
+  },
+  {
+    "id": 1,
+    "name": "bart",
+    "status": "free",
+    "reservation_detail": null,
+    "reservation_start_time": "2023-10-29 15:24:37",
+    "reservation_end_time": "2023-10-29 15:24:43",
+    "time_spent_on_reservation": "0:00:06.204566"
+  }
+]
